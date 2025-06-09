@@ -1,0 +1,62 @@
+{
+  "message_id": 37,
+  "from": {
+    "id": 1087968824,
+    "is_bot": true,
+    "first_name": "Group",
+    "username": "GroupAnonymousBot"
+  },
+  "sender_chat": {
+    "id": -1002692295571,
+    "title": "Материнство Chat",
+    "type": "supergroup"
+  },
+  "chat": {
+    "id": -1002692295571,
+    "title": "Материнство Chat",
+    "type": "supergroup"
+  },
+  "date": 1744787512,
+  "message_thread_id": 18,
+  "reply_to_message": {
+    "message_id": 18,
+    "from": {
+      "id": 777000,
+      "is_bot": false,
+      "first_name": "Telegram"
+    },
+    "sender_chat": {
+      "id": -1002554597375,
+      "title": "Тестовый Материнство",
+      "type": "channel"
+    },
+    "chat": {
+      "id": -1002692295571,
+      "title": "Материнство Chat",
+      "type": "supergroup"
+    },
+    "date": 1744774968,
+    "forward_origin": {
+      "type": "channel",
+      "chat": {
+        "id": -1002554597375,
+        "title": "Тестовый Материнство",
+        "type": "channel"
+      },
+      "message_id": 5,
+      "author_signature": "Алексей Корнев",
+      "date": 1744774965
+    },
+    "is_automatic_forward": true,
+    "forward_from_chat": {
+      "id": -1002554597375,
+      "title": "Тестовый Материнство",
+      "type": "channel"
+    },
+    "forward_from_message_id": 5,
+    "forward_signature": "Алексей Корнев",
+    "forward_date": 1744774965,
+    "text": "Еще пост"
+  },
+  "text": "Вопрос"
+}
