@@ -1,0 +1,17 @@
+services:
+  app:
+    container_name: express_ts_app
+    build: .
+    ports:
+      - "3000:3000"
+    environment:
+      - NODE_ENV=production
+      - PORT=3000
+      - BOT_TOKEN=${MOTHER_BOT_TOKEN}
+    volumes:
+      - .:/app
+      - /app/node_modules
+    # Добавьте это, если используете .env файл
+    env_file:
+      - .env
+
